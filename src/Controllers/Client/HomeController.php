@@ -16,7 +16,7 @@ class HomeController extends Controller
     }
     
     public function index() {
-        $name = 'DucTV44';
+        $name = 'Phuc';
 
         $products = $this->product->all();
 
